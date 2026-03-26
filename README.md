@@ -1,56 +1,77 @@
-<h2 align="left">Hi 👋! My name is Utkarsh Anand and I'm a Frontend Developer</h2>
+<h1 align="left">Hi 👋, I'm Utkarsh Anand</h1>
+<h3 align="left">Full Stack MERN + Next.js Developer | Building Scalable Web Applications</h3>
 
-###
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&lines=Full+Stack+Developer;MERN+%7C+Next.js;AI+Powered+Apps;Open+to+Internships" />
+</p>
 
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkarshanand10&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarshanand10&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+### 🚀 About Me
+- 💻 Full Stack Developer specializing in MERN + Next.js  
+- ⚡ Building scalable and production-ready web applications  
+- 🤖 Experience with AI integrations and REST APIs  
+- 🎯 Preparing for Full Stack Developer roles  
+- 🌱 Currently improving System Design & DSA  
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img width="10"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img width="10"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="40"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="12" />
- <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="TailwindCSS logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="40" alt="Express.js logo" style="background-color:white;padding:5px;border-radius:5px;" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-</div>
+### 📊 GitHub Stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=utkarshanand10&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=utkarshanand10&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-###
+---
 
-<div align="left">
-  <a href="https://www.youtube.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="youtube logo" />
+### 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=utkarshanand10&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 🧠 Coding Profiles
+<p align="left">
+  <a href="https://leetcode.com/u/Utkarsh_Ananad/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://www.instagram.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
+  <a href="https://www.geeksforgeeks.org/profile/utkarshanand133" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
+</p>
+
+---
+
+### 📫 Connect With Me
+<p align="left">
   <a href="https://www.linkedin.com/in/utkarsh-anand-16b418187/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:utkarshanand133@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</div>
+</p>
 
-###
+---
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/utkarshanand10/utkarshanand10/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/utkarshanand10/utkarshanand10/output/snake.svg" alt="snake animation"/>
